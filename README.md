@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/885948593956093952/1532525033698754711/twitter_2082372243716268339.gif?ex=6ac82228&is=6ac6d0a8&hm=44a435876282b31e2c659393b819c9f64bdbbbfe0b6180fce2a473b60127fba5&" width="400" alt="Funny GIF">
+  <img src="https://static2.klipy.com/ii/e1b92bb53e0c9e442408bc677a56c789/ea/65/9pTWH691ZuLZ5Uql.gif" width="400" alt="Kai Cenat GIF">
 </p>
