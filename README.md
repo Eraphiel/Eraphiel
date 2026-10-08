@@ -1,1 +1,3 @@
-![Alt Text]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://cdn.discordapp.com/attachments/885948593956093952/1532525033698754711/twitter_2082372243716268339.gif?ex=6ac82228&is=6ac6d0a8&hm=44a435876282b31e2c659393b819c9f64bdbbbfe0b6180fce2a473b60127fba5&))
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/885948593956093952/1532525033698754711/twitter_2082372243716268339.gif?ex=6ac82228&is=6ac6d0a8&hm=44a435876282b31e2c659393b819c9f64bdbbbfe0b6180fce2a473b60127fba5&" width="400" alt="Funny GIF">
+</p>
