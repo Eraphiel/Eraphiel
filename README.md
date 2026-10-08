@@ -7,5 +7,5 @@
 </div>
 
 <div>
-  <h2>Cavalo entra em Sala 🐴</h2>
+  <h3>horse walks in 🐎</h3>
 </div>
